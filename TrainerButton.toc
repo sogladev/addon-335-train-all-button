@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Train All Button
+## Author: sogla, unknown
+## Version: 1.0
+## X-Date: 2024-12-29
+## Notes: Adds a Train All button to Trainers
+## DefaultState: Enabled
+
+TrainerButton.lua
